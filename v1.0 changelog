@@ -6,4 +6,6 @@ https://www.techguy.org/threads/solved-get-random-folder-from-directory-using-ba
 
 Manually set your directory and it will open the file. You would however have to run the file again to get your next random file.
 
-##The code is a bit busted so you will have to fix it to run it. Will add a slight update to the original code.
+The code also does not open the file.
+
+##The code is a bit busted so you will have to fix it to run it. Will add v1.0.1 and show fixes made.
