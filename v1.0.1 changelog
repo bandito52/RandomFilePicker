@@ -1,0 +1,10 @@
+###v1.0.1 - April 3, 2024
+
+This mini update showcases the changes to get the original release running.
+
+Firstly, 1.0 does not open the file. To  fix this, line 9 in 1.0 needs line 12 in 1.0.1.
+As said before, /a-d causes the issue with not wanting to open.
+
+Added options to open the file with a YES or NO.
+
+You can see how the original file operated through having to do everything manually.
