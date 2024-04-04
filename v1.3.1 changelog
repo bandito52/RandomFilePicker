@@ -1,4 +1,4 @@
-v1.3.1 - April 3, 2024
+###v1.3.1 - April 3, 2024
 
 Quickfix to address accidental deletion of file if user mistyped a key.
 
