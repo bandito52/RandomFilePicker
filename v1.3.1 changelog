@@ -1,0 +1,3 @@
+Quickfix to address accidental deletion of files if user mistyped a key.
+
+Will remove the redundant check from v1.3 in v1.4
