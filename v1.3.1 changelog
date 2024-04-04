@@ -1,3 +1,5 @@
+v1.3.1 - April 3, 2024
+
 Quickfix to address accidental deletion of files if user mistyped a key.
 
 Will remove the redundant check from v1.3 in v1.4
