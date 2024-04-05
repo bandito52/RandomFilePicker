@@ -23,10 +23,11 @@ v1.4 corrects a lot of redundancy, brings in new features, and improves flow.
 2. The Options Choice page now displays the keybinds.
 
 3. Removed the following:
-	Redundant list of characters to check for auto skip(Fixed in v1.3.1)
-	Redundant check for ENTER in line75. Pressing ENTER automatically proceeds...
-	Some line spacing for looks.
-	Details at the beginning (No one actually cares during use.)
+	  Redundant list of characters to check for auto skip(Fixed in v1.3.1)
+	  Redundant check for ENTER in line75. Pressing ENTER automatically proceeds...
+	  Some line spacing for looks.
+	  Details at the beginning (No one actually cares during use.)
+    File size message. Unnecessary and did not look clean.
 
 4. Renamed some steps and binds for better clarity:
 	Step Names:
