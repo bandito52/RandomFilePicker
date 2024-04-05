@@ -6,7 +6,7 @@ v1.4 corrects a lot of redundancy, brings in new features, and improves flow.
 1. Can now open:
 	Files with spaces in the name
 	Gifs
-	Photos that are super small 64x64
+	Photos that are super small such as 64x64 pixels. 
 
 2. Can now create your own keybinds! Simply edit the file in a text editor or Notepad.
 	The keybinds are at the top of the file. Each key or phrase must have a space between them.
