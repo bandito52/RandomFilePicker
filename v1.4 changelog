@@ -8,7 +8,7 @@ v1.4 corrects a lot of redundancy, brings in new features, and improves flow.
 	Gifs
 	Photos that are super small 64x64
 
-2. Can now create your own keybinds! Simple edit the file in a text editor or Notepad.
+2. Can now create your own keybinds! Simply edit the file in a text editor or Notepad.
 	The keybinds are at the top of the file. Each key or phrase must have a space between them.
 	Ex: "bind_delete=1 test bob d del sally sue"
 	Special characters are heavily limited by design. Recommend only a-z 0-9 characters.
