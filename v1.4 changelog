@@ -27,7 +27,7 @@ v1.4 corrects a lot of redundancy, brings in new features, and improves flow.
 	 Redundant check for ENTER in line75. Pressing ENTER automatically proceeds...
 	 Some line spacing for looks.
 	 Details at the beginning (No one actually cares during use.)
-   File size message. Unnecessary and did not look clean.
+    File size message. Unnecessary and did not look clean.
 
 4. Renamed some steps and binds for better clarity:
 	Step Names:
