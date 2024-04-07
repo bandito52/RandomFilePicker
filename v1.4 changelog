@@ -40,5 +40,6 @@ v1.4 corrects a lot of redundancy, brings in new features, and improves flow.
 
 
 --  Fixes  --
-1. Another delete bug was found and squashed. Have tested even more key options to ensure stability.
+1. Delete bug was found and squashed. Have tested even more key options to ensure stability.
 	This fix will be pushed into previous versions.
+  Reorganized a few things so accidental deletions are no longer possible.
