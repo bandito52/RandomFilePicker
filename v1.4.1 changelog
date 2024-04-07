@@ -11,3 +11,5 @@ v1.4.1 lets you choose certain file types based on file types or phrases if you 
 
 -- Fixes --
    1. Files with spaces in name did not get deleted.
+   2. Entering r to reload directory but it instead reviewed.
+	Due to Choice menu pulling strings so if choice 1 is review and choice 2 is r then entering r will pull choice 1 since r is part of review.
