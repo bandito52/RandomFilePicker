@@ -1,11 +1,7 @@
-### March 31, 2013 ###
-
 Created far long ago on March 31, 2013 by chinagreenelvis
 
 https://www.techguy.org/threads/solved-get-random-folder-from-directory-using-batch.1094849/
 
-Manually set your directory and it will open the file. You would however have to run the file again to get your next random file.
+It was very simple in nature as it only tells you what file it randomly picked.
 
-The code also does not open the file.
-
-##The code is a bit busted so you will have to fix it to run it. Will add v1.0.1 and show fixes made.
+Being fascinated, I wanted to expand on it.
